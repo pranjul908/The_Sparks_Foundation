@@ -1,5 +1,5 @@
-# The_Sparks_Foundation
-Hello Folks, I've completed my Task - 6 i.e. Testing (Automated) from #GRIPAPRIL2023 as a Web Development Intern under GRADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP) by The Sparks Foundation. In this project I used Selenium to create a test case to test the website thesparksfoundation.sg.
+# The_Sparks_Foundation (from #GRIPAPRIL23)
+Hello Folks, I've completed my Task - 6 i.e. Testing (Automated) as a Web Development Intern under GRADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP) by The Sparks Foundation . In this project I used Selenium to create a test case to test the website thesparksfoundation.sg.
 
 My task is to,
 
